@@ -14,6 +14,7 @@ namespace AOPSample
     {
         public Form1()
         {
+            // test
             InitializeComponent();
         }
     }
